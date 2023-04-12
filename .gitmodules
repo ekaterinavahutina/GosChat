@@ -1,0 +1,3 @@
+[submodule "govchat"]
+	path = govchat
+	url = https://github.com/IvanAlekseevich28/govchat.git
